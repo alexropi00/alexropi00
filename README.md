@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexropi00
-- 👀 I’m interested in programming and cibersecurity
+- 👀 I’m interested in programming and cybersecurity
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: alexropi00@gmail.com
 
